@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="Trivium" url="http://zackhussain.ca/1.7/">
-        <fileTransfer host="trivium.ca" port="21">
+        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/zackhussain.ca/1.7">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -12,6 +12,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsOeDL/30jfdPVlra3t/UKvbXYZJtN8ok0mjTFZBIGLCXtOvHTkJ4Y/Olw8Xzj+EJ1LhkK1t1T0y9u/DQOXhLDC1DfWolSDlGSER3gQFUytQMtX8yB7lqVWfA5BQH5MkGNNhWGJbZn2hHAoVkdlyA6/uN24oPBia3BCEJk9/EaF4AXOTtB2UgqvVDVzn+hhxu0QnOVHH0c7DA0PjUMVyEgrNo+rXUB/FUnEM0gCEHb5PihHc5Q6qPwkUKvpKle1OoVw==</data>
+    <data>AAAAsBP8c/CPq4pGHkPqLROPGZA+m8u6XlnAj4VbBirIVCx4t1oA6GebCqOo/WOH7bI9TAuQcExPxxaKLjqRSqECzE8IqkUOu30mW+Mu2VeuxNGsLrBbVHZ2//EO6IKLrbQEZm9DMJZvut7QXsj3UEuWodNqSubg82f1IMXiEyV5NRiMCCumdxhH9h9bGVHfDhDw17gxG5GRu4p4QSk6AAEq6VGo8feH11w9p1HJq69ph/MfzrYAwfRg+qZpd21dxcsoNw==</data>
   </component>
 </application>
