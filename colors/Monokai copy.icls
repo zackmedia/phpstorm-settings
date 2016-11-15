@@ -386,6 +386,12 @@
         <option name="FOREGROUND" value="727075" />
       </value>
     </option>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="6bc3d2" />
+        <option name="BACKGROUND" value="2e3239" />
+      </value>
+    </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_DOC_COMMENT">
       <value>
@@ -476,7 +482,7 @@
     </option>
     <option name="DEFAULT_STATIC_METHOD">
       <value>
-        <option name="FOREGROUND" value="ade272" />
+        <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
     <option name="DEFAULT_STRING">
