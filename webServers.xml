@@ -1,8 +1,16 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="Trivium" url="http://zackhussain.ca/1.7/">
+      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="1.7" url="http://zackhussain.ca/1.7/">
         <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/zackhussain.ca/1.7">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="eba0d0c0-a5c6-456d-9125-3b5f1b692ee9" name="Trivium" url="http://trivium.ca">
+        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -12,6 +20,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsNQ6wSwrsz1IiUtRGwQ6TXX/yV/1SSPhU6iIKTxu5m8WEdJCe42snnI/laAVaZPJtGEG+SLyMxUIKm2pkwn+J83HxtpbsGNPo+Bx/G/uelvP2tgYm3yGwMwNZQRFgkEQDg1xmZR2+7bz9bDRS6Fun3CzRVjio9A66vo3YgNQ0tDQ6GyXN9dZwP3fraKhAPXFh2LJqBScTIzhpAIOXVAlHf67Y59QDDPMg5cB2it7pdgAJDm/dKru3qlRsxRQCOykWw==</data>
+    <data>AAABIIAHeie3diXkSHclj6jnTlX+myvjvN7ROYPiKApKvgZUG5zS3gXyyjpsGgHgvWKhAw3qJL2WKP3HepjpdGE/jrk3V2+a0x1DLcJjeiKFt4LvqdZiUq3LenO0NlHcTdQ6no956a8GetaDo+jPvbNCeSmM8Lk9OuG9rCT+8cu7gwBGj81F7C4rduEruzhuzHgrZo3TY/JTErqe3FRyNqk6Djnu88R9V/MtQDZ5QHbGEtWTy7/nQ/OfrGObGchh+xOK4TwLrgKOEPuRkDv6OQ24u6ZH5rR9SQWiyy30dgLqmr/7tmAtZgTJq05EXASznvaBPa4cVBfqvFVSu5V0a+gPDphCQgjF6ESL4fBKDxyrqPM/9PF+zNla51WDF5R4YIBvIno1DtXhy3+CcnfbJ58P1Os=</data>
   </component>
 </application>
