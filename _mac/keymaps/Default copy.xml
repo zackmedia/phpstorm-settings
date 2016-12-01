@@ -1,7 +1,0 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
-  <action id="AutoIndentLines">
-    <keyboard-shortcut first-keystroke="ctrl alt i" />
-    <keyboard-shortcut first-keystroke="alt tab" />
-  </action>
-  <action id="NextSplitter" />
-</keymap>
