@@ -9,9 +9,17 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="61081bb7-7c54-4bdc-bb28-3806e3a800e3" name="Canadian Protein" url="http://107.6.27.194">
+        <fileTransfer host="107.6.27.194" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAAsFcDxn+FJ98UcC4H+v3HXVA5WAfeWjAUqMMUsrFyJS5PDl6UVPy0eb8Z1qfrKCFNZfyaKs2PFctkt/JvPScDD2Uwahqb43UlGiuTvFQCxvYXpX0CUQSGr+8yI/s4xqdoLGosEW5u6TW4VXv7t7XtccRpU1KfCvPa21ajMABDcYPv4mKSQ+9KoH6nGmx7YXsypUDszJgxQ0iBTzSb6VXCYU+AOVIIrdaQGM+FhlVv/DQx3f1k2T23MKIq9qc1ex8cxQ==</data>
+    <data>AAAA4KKMsjL6VqTACTZ3mk+3XM8TKK1VakIz5LhukI1Y5bSVCl3za+bULzJ8j0Y661+aVFQtoUKJcTixA1zuava5nYlGX1JTVQxNXcW43inVkZfZLBnN4QFqW/ybukmzKvaqMSIqu+HSMeM+nVVX3vZkAjTMWgUh9O+BkIKEktGSMKywXOaqQrGn6VA+x7zoS6KbPrneRzZwr2z7KGjfuJgOG4OGrKZRmqSctNOWV2rvp3NmXVxsG/M4Q72/JSTre7HbnATLAoU2nwwckE6igDREw54c3zV8ukXIJdXoVFWwlMSCRvjEJQvXR9QGv2KEtioVkA==</data>
   </component>
 </application>
