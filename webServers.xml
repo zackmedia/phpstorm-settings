@@ -9,8 +9,16 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="61081bb7-7c54-4bdc-bb28-3806e3a800e3" name="Canadian Protein" url="http://107.6.27.194">
+      <webServer id="61081bb7-7c54-4bdc-bb28-3806e3a800e3" name="CP Root" url="http://107.6.27.194">
         <fileTransfer host="107.6.27.194" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0aebbfb6-923d-40d4-be6c-85c7246b3730" name="CP Dev" url="http://107.6.27.194">
+        <fileTransfer host="107.6.27.194" port="21" rootFolder="/dev/development">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -20,6 +28,6 @@
     </option>
   </component>
   <component name="webServersAuthStorage">
-    <data>AAAA4KKMsjL6VqTACTZ3mk+3XM8TKK1VakIz5LhukI1Y5bSVCl3za+bULzJ8j0Y661+aVFQtoUKJcTixA1zuava5nYlGX1JTVQxNXcW43inVkZfZLBnN4QFqW/ybukmzKvaqMSIqu+HSMeM+nVVX3vZkAjTMWgUh9O+BkIKEktGSMKywXOaqQrGn6VA+x7zoS6KbPrneRzZwr2z7KGjfuJgOG4OGrKZRmqSctNOWV2rvp3NmXVxsG/M4Q72/JSTre7HbnATLAoU2nwwckE6igDREw54c3zV8ukXIJdXoVFWwlMSCRvjEJQvXR9QGv2KEtioVkA==</data>
+    <data>AAABEJbki1JLMvCRoAX4jkzr8Czd89TxMYbBOWnHsU2vHvCJlfqN2HM6xG3t+wRbFRxM7aXcbSTpHKmemkomEQODy78LjVJeG3kdekXyVirgp8nLC/zJCLynqjC7pGcnrAH+ISqlhSpcmyyrcHMrNAwgtR587/r5rEAplrf94Smxu5Z7gDY32P/6PrVsrHffxJbPZWdx4cLZru95dKaFH2xh3RZf3IyUpTSasdjA64tzl8ciIeBG6Ya/d5BixZ71GBHZDe5ElBQ9c4EROpKg3Dfkr6u9AzQdleRVQreNe6N2ljlvhJryjdxGQLFuGnNyf0Frz0TnfObLVyyB3ljsA0FatZTkKoztqOLMVUydLTTnE7d07vfUA+CY17BqhAVkKpQMBw==</data>
   </component>
 </application>
