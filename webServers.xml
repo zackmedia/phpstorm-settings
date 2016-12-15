@@ -1,33 +1,25 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="Trivium" url="http://trivium.ca">
-        <fileTransfer host="trivium.ca" port="21">
+      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="1.7" url="http://zackhussain.ca/1.7/">
+        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/zackhussain.ca/1.7">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="61081bb7-7c54-4bdc-bb28-3806e3a800e3" name="CP Root" url="http://107.6.27.194">
-        <fileTransfer host="107.6.27.194" port="21">
+      <webServer id="eba0d0c0-a5c6-456d-9125-3b5f1b692ee9" name="Trivium" url="http://trivium.ca">
+        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
-      <webServer id="0aebbfb6-923d-40d4-be6c-85c7246b3730" name="CP Dev" url="http://107.6.27.194">
-        <fileTransfer host="107.6.27.194" port="21" rootFolder="/dev/development">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
+      <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAABEJbki1JLMvCRoAX4jkzr8Czd89TxMYbBOWnHsU2vHvCJlfqN2HM6xG3t+wRbFRxM7aXcbSTpHKmemkomEQODy78LjVJeG3kdekXyVirgp8nLC/zJCLynqjC7pGcnrAH+ISqlhSpcmyyrcHMrNAwgtR587/r5rEAplrf94Smxu5Z7gDY32P/6PrVsrHffxJbPZWdx4cLZru95dKaFH2xh3RZf3IyUpTSasdjA64tzl8ciIeBG6Ya/d5BixZ71GBHZDe5ElBQ9c4EROpKg3Dfkr6u9AzQdleRVQreNe6N2ljlvhJryjdxGQLFuGnNyf0Frz0TnfObLVyyB3ljsA0FatZTkKoztqOLMVUydLTTnE7d07vfUA+CY17BqhAVkKpQMBw==</data>
   </component>
 </application>

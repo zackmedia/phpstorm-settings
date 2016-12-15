@@ -894,6 +894,12 @@
         <option name="BACKGROUND" value="2e3239" />
       </value>
     </option>
+    <option name="PHP_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="6bc3d2" />
+        <option name="BACKGROUND" value="2e3239" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
