@@ -20,6 +20,17 @@
       <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="coolcontacts_dev" url="http://trivium.ca">
+        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/coolcontacts_dev">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcCQpBln7mSZ75hDuMjVgqufUcwFc8TAAgILyenByQj1cxbUqvLFkUNUNiCkDnkS0+ShRzHm5DEHHy7bBWpDdK8p2CCFxVVvTjPVEcemBwkbSlqPhxMvQl1HgIX3yM4jQfqV66T7NFeBxk6Ev6g9kVIpzXPMoXhfoxk5ZtCIbHShN</data>
   </component>
 </application>
