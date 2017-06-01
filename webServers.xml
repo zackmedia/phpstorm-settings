@@ -1,14 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="1.7" url="http://zackhussain.ca/1.7/">
-        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/zackhussain.ca/1.7">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
