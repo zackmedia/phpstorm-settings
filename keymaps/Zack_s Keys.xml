@@ -1,8 +1,9 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Zack's Keys" parent="Mac OS X 10.5+">
   <action id="AutoIndentLines">
     <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
+  <action id="Console.TableResult.Reload" />
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
@@ -11,7 +12,16 @@
     <keyboard-shortcut first-keystroke="shift tab" />
     <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="IntroduceField" />
   <action id="NextSplitter" />
+  <action id="Refresh" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="Rerun" />
   <action id="SurroundWith">
     <keyboard-shortcut first-keystroke="meta alt t" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -31,4 +41,6 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.Log.Refresh" />
+  <action id="hg4idea.QRefresh" />
 </keymap>
