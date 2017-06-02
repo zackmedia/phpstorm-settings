@@ -4,7 +4,7 @@
     <property name="created">2017-06-02T03:22:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-02T03:23:02</property>
+    <property name="modified">2017-06-02T05:28:45</property>
     <property name="originalScheme">Monokai copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -942,10 +942,27 @@
         <option name="BACKGROUND" value="2e3239" />
       </value>
     </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="fa5090" />
+      </value>
+    </option>
     <option name="PHP_PARAMETER">
       <value>
         <option name="FOREGROUND" value="fd971f" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_PREDEFINED SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="6bc3d2" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="ebebe5" />
+        <option name="BACKGROUND" value="2d2f35" />
       </value>
     </option>
     <option name="PHP_VAR">
