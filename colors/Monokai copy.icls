@@ -11,9 +11,9 @@
     <option name="CARET_ROW_COLOR" value="393a43" />
     <option name="CONSOLE_BACKGROUND_KEY" value="313131" />
     <option name="GUTTER_BACKGROUND" value="202328" />
-    <option name="INDENT_GUIDE" value="3b3a32" />
+    <option name="INDENT_GUIDE" value="33353b" />
     <option name="LINE_NUMBERS_COLOR" value="686b76" />
-    <option name="SELECTED_INDENT_GUIDE" value="3b3a32" />
+    <option name="SELECTED_INDENT_GUIDE" value="33353b" />
     <option name="SELECTION_BACKGROUND" value="575f6f" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
@@ -889,16 +889,39 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
+    <option name="PHP_COMMA">
+      <value />
+    </option>
+    <option name="PHP_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5e6875" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="b396ff" />
         <option name="BACKGROUND" value="2e3239" />
       </value>
     </option>
+    <option name="PHP_DOC_COMMENT_ID">
+      <value>
+        <option name="FOREGROUND" value="727075" />
+      </value>
+    </option>
+    <option name="PHP_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ace270" />
+      </value>
+    </option>
     <option name="PHP_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="6bc3d2" />
+        <option name="FOREGROUND" value="6ed7eb" />
         <option name="BACKGROUND" value="2e3239" />
+      </value>
+    </option>
+    <option name="PHP_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="fa669a" />
       </value>
     </option>
     <option name="PHP_PARAMETER">
@@ -907,7 +930,18 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_SCRIPTING_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="f8f8f2" />
+        <option name="BACKGROUND" value="2a2d34" />
+      </value>
+    </option>
+    <option name="PHP_VAR">
+      <value>
+        <option name="FOREGROUND" value="eeeee8" />
+        <option name="BACKGROUND" value="2d2f35" />
+      </value>
+    </option>
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -1362,7 +1396,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-        <option name="BACKGROUND" value="2e3239" />
+        <option name="BACKGROUND" value="2d2f35" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
