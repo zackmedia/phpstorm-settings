@@ -1,22 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ae940605-09bf-4f30-8cc0-7246427cb86d" name="1.7" url="http://zackhussain.ca/1.7/">
-        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/zackhussain.ca/1.7">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="eba0d0c0-a5c6-456d-9125-3b5f1b692ee9" name="Trivium" url="http://trivium.ca">
-        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="21" />
-        </fileTransfer>
-      </webServer>
       <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
@@ -29,8 +13,5 @@
         </fileTransfer>
       </webServer>
     </option>
-  </component>
-  <component name="webServersAuthStorage">
-    <data>AAAAcPJOROFOMICfvMqoSkmJ8KPy7W8rC9KjPHM5bHn9I5AkCEZlJSlJl1w2Nwbz4Hq2JiNMrapfwnl0Dn+ZvF9+f/+f+jeNGAVMDMzy1R8wm5/YFE57r0ypq4/MSjcGuRe/IGKQA0Flq3Pksw+iEg8G00FBwqbJoH6J951L46AiC7OI</data>
   </component>
 </application>
