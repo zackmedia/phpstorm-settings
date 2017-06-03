@@ -1,11 +1,11 @@
-<scheme name="Zack's Monokai Blue Pastel" version="142" parent_scheme="Default">
+<scheme name="Monokai Night (zack)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-06-02T03:22:43</property>
+    <property name="created">2017-06-03T09:34:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-03T00:22:41</property>
-    <property name="originalScheme">Monokai copy</property>
+    <property name="modified">2017-06-03T10:05:17</property>
+    <property name="originalScheme">Zack's Monokai Blue Pastel</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -15,14 +15,14 @@
   <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
-    <option name="CARET_ROW_COLOR" value="393a43" />
+    <option name="CARET_ROW_COLOR" value="363d45" />
     <option name="CONSOLE_BACKGROUND_KEY" value="313131" />
-    <option name="GUTTER_BACKGROUND" value="282c34" />
-    <option name="INDENT_GUIDE" value="2e333c" />
+    <option name="GUTTER_BACKGROUND" value="262d34" />
+    <option name="INDENT_GUIDE" value="31373f" />
     <option name="LINE_NUMBERS_COLOR" value="414754" />
-    <option name="SELECTED_INDENT_GUIDE" value="33353b" />
-    <option name="SELECTION_BACKGROUND" value="575f6f" />
-    <option name="WHITESPACES" value="3b3a32" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
+    <option name="SELECTION_BACKGROUND" value="363d45" />
+    <option name="WHITESPACES" value="2e363e" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -455,7 +455,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="fa5090" />
+        <option name="FOREGROUND" value="fc497f" />
       </value>
     </option>
     <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -704,12 +704,6 @@
         <option name="FOREGROUND" value="e5b261" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value>
-        <option name="FOREGROUND" value="ebebe5" />
-        <option name="BACKGROUND" value="2d2f35" />
-      </value>
-    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="5e6875" />
@@ -718,11 +712,6 @@
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="b396ff" />
-      </value>
-    </option>
-    <option name="HTML_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="fa5090" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -756,8 +745,8 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="434a57" />
-        <option name="BACKGROUND" value="1d2026" />
+        <option name="FOREGROUND" value="4b5866" />
+        <option name="BACKGROUND" value="2e363e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -1019,11 +1008,6 @@
         <option name="FOREGROUND" value="ebebe5" />
       </value>
     </option>
-    <option name="PHP_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="fa5090" />
-      </value>
-    </option>
     <option name="PHP_MARKUP_ID">
       <value>
         <option name="FOREGROUND" value="5e6875" />
@@ -1059,11 +1043,6 @@
     <option name="PHP_STATIC_METHOD">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
-      </value>
-    </option>
-    <option name="PHP_TAG">
-      <value>
-        <option name="FOREGROUND" value="fa5090" />
       </value>
     </option>
     <option name="PHP_VAR">
@@ -1530,7 +1509,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="ebebe5" />
-        <option name="BACKGROUND" value="282c34" />
+        <option name="BACKGROUND" value="262d34" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
@@ -1552,6 +1531,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="638989" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="583535" />
@@ -1559,7 +1544,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4a3f10" />
+        <option name="BACKGROUND" value="333424" />
         <option name="EFFECT_COLOR" value="f8f8f2" />
         <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
