@@ -17,6 +17,9 @@
   </action>
   <action id="IntroduceField" />
   <action id="NextSplitter" />
+  <action id="PublishGroup.Upload">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
   <action id="Refresh" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta alt f" />
@@ -42,5 +45,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Vcs.Log.Refresh" />
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
   <action id="hg4idea.QRefresh" />
 </keymap>
