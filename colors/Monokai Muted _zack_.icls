@@ -4,7 +4,7 @@
     <property name="created">2017-06-03T10:07:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-05T09:47:57</property>
+    <property name="modified">2017-06-05T10:37:05</property>
     <property name="originalScheme">Monokai Night (zack) copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
@@ -21,7 +21,7 @@
     <option name="INDENT_GUIDE" value="31373f" />
     <option name="LINE_NUMBERS_COLOR" value="414754" />
     <option name="SELECTED_INDENT_GUIDE" value="66778a" />
-    <option name="SELECTION_BACKGROUND" value="3a414c" />
+    <option name="SELECTION_BACKGROUND" value="5f6b7b" />
     <option name="WHITESPACES" value="2e363e" />
   </colors>
   <attributes>
