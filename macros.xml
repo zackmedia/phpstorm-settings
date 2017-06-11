@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Auto semicolon">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="59:0">;</typing>
+    </macro>
+    <macro name="Auto comma">
+      <action id="EditorLineEnd" />
+      <typing text-keycode="44:0">,</typing>
+    </macro>
+  </component>
+</application>
