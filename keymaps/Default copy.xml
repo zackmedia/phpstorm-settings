@@ -3,5 +3,12 @@
     <keyboard-shortcut first-keystroke="ctrl alt i" />
     <keyboard-shortcut first-keystroke="alt tab" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="IntroduceField" />
   <action id="NextSplitter" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
 </keymap>
