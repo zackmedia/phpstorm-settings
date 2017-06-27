@@ -7,6 +7,12 @@
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="IntroduceField" />
+  <action id="Macro.Auto comma">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Macro.Auto semicolon">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="NextSplitter" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="meta alt f" />
