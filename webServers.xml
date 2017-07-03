@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="53ded3ee-8d34-4a35-bc5d-fa75fff7f1ee" name="CP Dev" url="http://107.6.27.194">
+        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack_rsa" rootFolder="/home/canadianprotein/public_html/dev/development" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22122" />
+        </fileTransfer>
+      </webServer>
       <webServer id="326718a5-65d3-4fe8-b191-1e4d17e2ce2c" name="Passetemps" url="http://cpb31.likuid.com">
         <fileTransfer host="cpb31.likuid.com" port="21" rootFolder="/public_html">
           <advancedOptions>
