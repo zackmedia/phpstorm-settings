@@ -14,6 +14,12 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
   <action id="NextSplitter" />
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+    <mouse-shortcut keystroke="control button2" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
