@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isMaterialDesign" value="false" />
     <option name="wallpaper" value="" />
     <option name="wallpaperSet" value="false" />
   </component>
