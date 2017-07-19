@@ -4,15 +4,14 @@
     <property name="created">2017-06-03T10:07:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.1.4.0.0</property>
-    <property name="modified">2017-06-06T12:28:36</property>
+    <property name="modified">2017-07-19T15:05:04</property>
     <property name="originalScheme">Monokai Night (zack) copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
   <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Ubuntu Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.5" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="748c84" />
     <option name="CARET_COLOR" value="d6d6d6" />
@@ -78,24 +77,9 @@
         <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.BLOCK_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="75715e" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.BOOLEAN">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.CLASS_NAME">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.COLON">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
     <option name="COFFEESCRIPT.ESCAPE_SEQUENCE">
@@ -108,23 +92,7 @@
         <option name="FOREGROUND" value="f92672" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION_BINDING">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="e6db74" />
@@ -150,29 +118,9 @@
         <option name="FOREGROUND" value="e6db74" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
     <option name="COFFEESCRIPT.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="75715e" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ae81ff" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.OPERATIONS">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.PROTOTYPE">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="COFFEESCRIPT.REGULAR_EXPRESSION_CONTENT">
@@ -191,11 +139,6 @@
       </value>
     </option>
     <option name="COFFEESCRIPT.STRING">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="e6db74" />
       </value>
@@ -386,29 +329,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="75715e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="75715e" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="CUSTOM_NUMBER_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="ae81ff" />
-      </value>
-    </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_LINE_COMMENT" />
+    <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES" baseAttributes="DEFAULT_BLOCK_COMMENT" />
+    <option name="CUSTOM_NUMBER_ATTRIBUTES" baseAttributes="DEFAULT_NUMBER" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
@@ -771,9 +695,7 @@
       </value>
     </option>
     <option name="HAML_ID">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
+      <value />
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
@@ -1430,76 +1352,14 @@
         <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
-    <option name="SASS_DEFAULT">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
-    <option name="SASS_EXTEND">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
-    <option name="SASS_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-      </value>
-    </option>
-    <option name="SASS_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="SASS_IMPORTANT">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
-    <option name="SASS_KEYWORD">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
-      </value>
-    </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="a6e22e" />
-      </value>
-    </option>
-    <option name="SASS_NUMBER">
-      <value>
-        <option name="FOREGROUND" value="ae81ff" />
-      </value>
-    </option>
-    <option name="SASS_PROPERTY_NAME">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="SASS_PROPERTY_VALUE">
-      <value>
-        <option name="FOREGROUND" value="66d9ef" />
-      </value>
-    </option>
-    <option name="SASS_STRING">
-      <value>
-        <option name="FOREGROUND" value="e6db74" />
-      </value>
-    </option>
-    <option name="SASS_TAG_NAME">
-      <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="b4c973" />
       </value>
     </option>
     <option name="SASS_URL">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
-      </value>
-    </option>
-    <option name="SASS_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="fd971f" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -1636,9 +1496,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="333424" />
+        <option name="BACKGROUND" value="3a3c2a" />
         <option name="EFFECT_COLOR" value="f8f8f2" />
-        <option name="ERROR_STRIPE_COLOR" value="ebc700" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
