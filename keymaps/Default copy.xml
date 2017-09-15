@@ -23,4 +23,7 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="meta alt f" />
   </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
 </keymap>

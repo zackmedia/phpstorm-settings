@@ -20,12 +20,12 @@
       <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="coolcontacts_dev" url="http://trivium.ca">
-        <fileTransfer host="trivium.ca" port="21" rootFolder="/public_html/coolcontacts_dev">
+      <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="Coolcontacts Dev" url="http://zhmedia.ca">
+        <fileTransfer host="zhmedia.ca" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html/coolcontacts_dev" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="21" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="7f354933-6e88-45f9-90a3-aed606de0c56" name="docker" url="http://localhost:8080/passetemps">
