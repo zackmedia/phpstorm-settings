@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="53ded3ee-8d34-4a35-bc5d-fa75fff7f1ee" name="CP Dev" url="http://107.6.27.194">
-        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack_rsa" rootFolder="/home/canadianprotein/public_html/dev/development" accessType="SFTP" keyPair="true">
+        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack_rsa" rootFolder="/home/canadianprotein/public_html/dev/development/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
