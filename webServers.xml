@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="cf0b23c9-3961-4fda-98a5-99062c48e3f8" name="Digital Ocean" url="http://138.197.143.55">
+        <fileTransfer host="138.197.143.55" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="53ded3ee-8d34-4a35-bc5d-fa75fff7f1ee" name="CP Dev" url="http://107.6.27.194">
         <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack_rsa" rootFolder="/home/canadianprotein/public_html/dev/development/" accessType="SFTP" keyPair="true">
           <advancedOptions>
