@@ -29,7 +29,7 @@
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="Coolcontacts Dev" url="http://zhmedia.ca">
-        <fileTransfer host="zhmedia.ca" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html/coolcontacts_dev" accessType="SFTP" keyPair="true">
+        <fileTransfer host="zhmedia.ca" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html/coolcontacts" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
