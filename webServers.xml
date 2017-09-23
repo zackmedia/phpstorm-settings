@@ -28,7 +28,7 @@
       <webServer id="644fdab3-ad74-445d-8d81-da2c93feecd8" name="Jekyll Server" url="http://localhost:4000">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="Coolcontacts Dev" url="http://zhmedia.ca">
+      <webServer id="f1307a7e-6a15-4700-9cf0-401138e7c644" name="Coolcontacts Filters" url="http://zhmedia.ca">
         <fileTransfer host="zhmedia.ca" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html/coolcontacts" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
