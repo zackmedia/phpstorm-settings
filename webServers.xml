@@ -1,6 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0786150e-f80a-4e87-8427-2d16026fa7a6" name="Passetemps" url="http://serveur.passetemps.likuid.com">
+        <fileTransfer host="serveur.passetemps.likuid.com" port="21" rootFolder="/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="15ebcb51-c624-4c5b-b54c-e0ea90bfa828" name="Placote" url="http://placote.com">
+        <fileTransfer host="placote.com" port="21" rootFolder="/public_html/placote2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
       <webServer id="cf0b23c9-3961-4fda-98a5-99062c48e3f8" name="Digital Ocean" url="http://138.197.143.55">
         <fileTransfer host="138.197.143.55" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/var/www/html/zhmedia.ca/public_html" accessType="SFTP" keyPair="true">
           <advancedOptions>
