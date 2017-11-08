@@ -2,7 +2,6 @@
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
-    <option name="accentColor" value="607D8B" />
     <option name="wallpaper" value="" />
     <option name="wallpaperSet" value="false" />
     <option name="themedScrollbars" value="false" />
