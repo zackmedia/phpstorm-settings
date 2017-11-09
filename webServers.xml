@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="0786150e-f80a-4e87-8427-2d16026fa7a6" name="Passetemps" url="http://serveur.passetemps.likuid.com">
-        <fileTransfer host="serveur.passetemps.likuid.com" port="21" rootFolder="/public_html">
+      <webServer id="0786150e-f80a-4e87-8427-2d16026fa7a6" name="Passetemps" url="http://passetemps.com">
+        <fileTransfer host="passetemps.com" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
