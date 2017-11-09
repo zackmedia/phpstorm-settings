@@ -22,6 +22,14 @@
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
+      <mask>^</mask>
+      <mask>^e</mask>
+      <mask>^er</mask>
+      <mask>^err</mask>
+      <mask>^error</mask>
+      <mask>^error_</mask>
+      <mask>^error_l</mask>
+      <mask>^error_log</mask>
     </recentFileMasks>
   </component>
 </application>
