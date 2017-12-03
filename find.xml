@@ -18,7 +18,6 @@
       <mask>t</mask>
       <mask>tpl</mask>
       <mask>*.tpl</mask>
-      <mask>*.php</mask>
       <mask>^</mask>
       <mask>^e</mask>
       <mask>^er</mask>
@@ -29,7 +28,10 @@
       <mask>^error_log</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
