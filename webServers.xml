@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="53ded3ee-8d34-4a35-bc5d-fa75fff7f1ee" name="CP Dev" url="http://107.6.27.194">
-        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack2_rsa" rootFolder="/home/canadianprotein/public_html/dev/development/" accessType="SFTP" keyPair="true">
+        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack3_rsa" rootFolder="/home/canadianprotein/public_html/dev/development/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -56,7 +56,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1ec509a5-a8b2-4882-b25b-1c63118ddb07" name="CP Prod" url="http://107.6.27.194">
-        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack2_rsa" rootFolder="/home/canadianprotein/public_html/" accessType="SFTP" keyPair="true">
+        <fileTransfer host="107.6.27.194" port="22122" privateKey="$USER_HOME$/.ssh/zack3_rsa" rootFolder="/home/canadianprotein/public_html/" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
